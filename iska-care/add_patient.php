@@ -148,8 +148,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <option value="DCET">DCET</option>
                         <option value="DEET">DEET</option>
                         <option value="DIT">DIT</option>
-                        <option value="DOMT-LOM">DOMT</option>
-                        <option value="DOMT-MOM">DIT</option>
+                        <option value="DOMT-LOM">DOMT-LOM</option>
+                        <option value="DOMT-MOM">DOMT-MOM</option>
                     </select>
                 </div>
 
@@ -206,3 +206,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </script>
 </body>
 </html>
+
