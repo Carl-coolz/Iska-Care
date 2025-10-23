@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="images/logo.png" alt="Iska-Care Logo" width="150">
-</p>
-
 <h1 align="center">Iska-Care</h1>
 <p align="center"><em>Modern care for the modern Iskolar ng Bayan</em></p>
 
