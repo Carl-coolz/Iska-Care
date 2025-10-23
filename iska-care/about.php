@@ -123,7 +123,7 @@ if (!isset($_SESSION['user'])) {
     border-color: var(--primary-light);
 }
 
-    .member-avatar {
+.member-avatar {
     width: 120px;
     height: 120px;
     border-radius: 50%;
@@ -146,14 +146,14 @@ if (!isset($_SESSION['user'])) {
     margin-bottom: 8px;
 }
 
-    .member-role {
+.member-role {
     font-size: 1.1rem;
     color: var(--primary-color);
     font-weight: 500;
     margin-bottom: 15px;
 }
 
-    .member-skill {
+.member-skill {
     display: inline-block;
     background: linear-gradient(135deg, var(--primary-color), var(--primary-light));
     color: white;
@@ -186,7 +186,7 @@ if (!isset($_SESSION['user'])) {
     margin-top: 40px;
 }
 
-    .access-card {
+.access-card {
     background: linear-gradient(135deg, #f8fafc, #e2e8f0);
     border-radius: 15px;
     padding: 30px;
@@ -198,7 +198,7 @@ if (!isset($_SESSION['user'])) {
     box-shadow: var(--shadow-sm);
 }
 
-    .access-card:hover {
+.access-card:hover {
     transform: translateY(-8px);
     box-shadow: var(--shadow-lg);
     border-color: var(--primary-light);
@@ -302,7 +302,7 @@ if (!isset($_SESSION['user'])) {
                         <div class="member-card">
                             <div class="member-avatar">J</div>
                             <h3 class="member-name">Jon Carlo</h3>
-                            <p class="member-role">Lead Developer / UI/UX Designer</p>
+                            <p class="member-role">Lead Developer / Full-Stack Dev</p>
                             <span class="member-skill">"The Overthinker"</span>
                             <p class="member-bio">
                                 Jon Carlo A. Marasigan is a 19 year-old student of PUP-LQ
@@ -324,7 +324,7 @@ if (!isset($_SESSION['user'])) {
                         <div class="member-card">
                             <div class="member-avatar">P</div>
                             <h3 class="member-name">Paulo Xezar</h3>
-                            <p class="member-role">Backend Developer/Moral Support</p>
+                            <p class="member-role">Backend Developer</p>
                             <span class="member-skill">"The Di ko alam pano to gawin?"</span>
                             <p class="member-bio">
                                 Paulo Xezar F. Basanta is a 20 year-old student of PUP-LQ
